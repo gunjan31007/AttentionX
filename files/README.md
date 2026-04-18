@@ -76,7 +76,7 @@ User Upload / URL
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/attentionx.git
+git clone https://github.com/gunjan31007/attentionx.git
 cd attentionx
 ```
 
