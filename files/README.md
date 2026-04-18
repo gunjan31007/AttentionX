@@ -2,8 +2,8 @@
 
 > Turn a 60-minute lecture into 7 viral short-form clips — automatically.
 
-[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Now-c8f03e?style=for-the-badge)](YOUR_DEMO_LINK_HERE)
-[![Live App](https://img.shields.io/badge/Live%20App-Try%20It-7c3aed?style=for-the-badge)](YOUR_HOSTED_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Now-c8f03e?style=for-the-badge)](https://drive.google.com/drive/folders/14Ho_iQ4btbK81gCsTXzcN93p7UusZBKf)
+
 
 ---
 
@@ -85,9 +85,6 @@ cd attentionx
 pip install -r requirements.txt
 ```
 
-### 3. Set API key (optional — works without it using fallback)
-```bash
-export ANTHROPIC_API_KEY=your_key_here
 ```
 
 ### 4. Run the server
@@ -141,7 +138,7 @@ Full interactive docs: `http://localhost:8000/api/docs`
 
 ## 🎥 Demo Video
 
-> **[▶ Watch the full demo here](YOUR_DEMO_LINK_HERE)**
+> **[▶ Watch the full demo here](https://drive.google.com/drive/folders/14Ho_iQ4btbK81gCsTXzcN93p7UusZBKf)**
 
 ---
 
